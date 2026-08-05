@@ -1,0 +1,8 @@
+streamlit==1.49.1
+starlette==0.47.2
+uvicorn==0.35.0
+numpy==2.2.6
+pandas==2.3.2
+scikit-learn==1.7.1
+gensim==4.3.3
+nltk==3.9.1
